@@ -31,6 +31,6 @@ def array_two_sum_v2(arr, target):
 
 
 # For above answer time complexity will be O(N)
-# No extra space is used hence space complexity O(1)
+# Dictionary with extra space is used hence space complexity O(N)
 
 array_two_sum_v2([3, 2, 4, 5], 6)
